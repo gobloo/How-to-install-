@@ -1,5 +1,5 @@
 # **〽 How to install snort on kali:**
-(./snort.png)
+![](./snort.png)
 ## **〽What is snort :**
 
 - Snort is the foremost Open Source Intrusion Prevention System (IPS) in the world.
