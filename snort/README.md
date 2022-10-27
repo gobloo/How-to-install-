@@ -77,7 +77,6 @@
             Using ZLIB version: 1.2.11
     
 ```
-                                                                                                                                                              by Goblo
 ### **Ressources :**
 - [Link 1](https://koayyongcett.medium.com/snort-installation-in-kali-linux-from-the-source-9a005558a2ea)
 - [Link 2](https://www.systranbox.com/how-to-install-snort-on-kali-linux/) 
@@ -87,3 +86,5 @@
 - [#error Only Win32](https://unix.stackexchange.com/questions/329122/is-this-error-only-win32-target-is-supported-coming-from-wrong-cc1plus)
 - [Snort-install-Dependency-resolve](https://topic.alibabacloud.com/a/snort-install-dependency-resolve_8_8_31275138.html)
 - [Snort Official Website](https://www.snort.org/)
+
+#by Goblo
