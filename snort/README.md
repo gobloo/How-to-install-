@@ -1,4 +1,4 @@
-# **〽 How to install snort on kali:**
+# **〽 How to Install Snort on kali:**
 ![](./snort.png)
 ## **〽What is snort :**
 
